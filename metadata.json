@@ -1,0 +1,6 @@
+{
+  "name": "Gerenciador Web",
+  "description": "Um gerenciador de arquivos com interface Android construído com tecnologias web.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
